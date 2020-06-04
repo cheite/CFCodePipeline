@@ -1,0 +1,10 @@
+Repotoken: 500fb6c86e9726b613f4a6507145591481b77c0e
+
+Quickstart:
+https://aws.amazon.com/de/quickstart/architecture/cicd-taskcat/
+
+Getting startet:
+https://docs.aws.amazon.com/codepipeline/latest/userguide/getting-started-codepipeline.html#create-iam-user
+
+Create a Simple Pipeline (S3 Bucket):
+https://docs.aws.amazon.com/codepipeline/latest/userguide/tutorials-simple-s3.html
