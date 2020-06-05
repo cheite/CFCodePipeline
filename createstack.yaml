@@ -1,3 +1,3 @@
 Resources:
-  catpics:
+  catpics123:
     Type: 'AWS::S3::Bucket'

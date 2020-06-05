@@ -1,4 +1,4 @@
-Repotoken: 500fb6c86e9726b613f4a6507145591481b77c0e
+Repotoken: c0b9668bd401865d17e111216c0e8ecb58df9c73
 
 Quickstart:
 https://aws.amazon.com/de/quickstart/architecture/cicd-taskcat/
